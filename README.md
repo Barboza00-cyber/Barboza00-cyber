@@ -12,5 +12,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 Venho de uma trajetória em Planejamento e Controle de Produção (PCP), o que me deu uma **visão analítica apurada** e facilidade em resolver problemas complexos — competências que agora aplico no desenvolvimento de software.
 
 ### 📫 Vamos conversar?
-* **LinkedIn:** [Seu Link]
+* **LinkedIn:** [[Seu Link]](https://www.linkedin.com/in/guilherme-barboza-da-silva-941306239)
 * **E-mail:** consultor.barboza00@gmail.com
