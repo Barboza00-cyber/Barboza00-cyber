@@ -10,6 +10,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluçõ
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 📖 O que estou estudando agora
+* Fundamentos de **Python** (Variáveis e Tipos de Dados).
+* Estruturas de controle de fluxo (**if**, **elif**, **else**).
+* Manipulação de dados com **SQL**.
+* 
 ### 📈 Experiência & Diferencial
 Venho de uma trajetória em **Planejamento e Controle de Produção (PCP)**, o que me deu uma visão analítica apurada e facilidade em resolver problemas complexos — competências que agora aplico no desenvolvimento de software.
 
