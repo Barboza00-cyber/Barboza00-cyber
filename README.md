@@ -22,5 +22,8 @@ Venho de uma trajetória em **Planejamento e Controle de Produção (PCP)**, o q
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barboza-da-silva-941306239)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:consultor.barboza00@gmail.com)
 
+| Projeto | Linguagem | Status |
+| :--- | :--- | :--- |
+| [Estudos Python](https://github.com/Barboza00-cyber/estudos-python) | Python 🐍 | Em andamento 🛠️ |
 ---
 *“A persistência é o caminho do êxito.”*
