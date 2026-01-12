@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Barboza! 👋
 
-<!--
-**Barboza00-cyber/Barboza00-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** focado em criar soluções eficientes com Python, SQL e JavaScript. Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades Técnicas
+* **Linguagens:** Python, C, JavaScript (ES6+)
+* **Banco de Dados:** SQL (Estruturação e Consultas)
+* **Web:** HTML5, CSS3
+* **Ferramentas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Experiência & Diferencial
+Venho de uma trajetória em Planejamento e Controle de Produção (PCP), o que me deu uma **visão analítica apurada** e facilidade em resolver problemas complexos — competências que agora aplico no desenvolvimento de software.
+
+### 📫 Vamos conversar?
+* **LinkedIn:** [Seu Link]
+* **E-mail:** consultor.barboza00@gmail.com
